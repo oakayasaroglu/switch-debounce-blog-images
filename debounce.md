@@ -62,7 +62,7 @@ Shift register yönteminde ise sayma algoritmasını seçilen bir shift register
 
 İkisinin de mantığında bouncing süresinin bitmesini bekledikten sonra gelen sinyali kabul etmek vardır.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 Debouncing hakkındaki yazım bu kadardı. Güzel günleriniz olsun.
 
